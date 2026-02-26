@@ -118,7 +118,7 @@ You can read more about TS configuration with expo here: https://docs.expo.dev/g
 <details>
   <summary>In this part we will implement the given UI:</summary> 
 
-  <img width="511" alt="ui" src="https://github.com/callstack-workshops/abbott-module-4-homework/assets/13610886/a2938d77-5b6e-4d9b-976e-7c38b7c785fc" />
+  <img width="511" alt="ui" src="./assets/image1.png" />
 
 
 </details>
@@ -132,7 +132,7 @@ You can read more about TS configuration with expo here: https://docs.expo.dev/g
   <details>
     <summary>Form validation</summary>
     
-  <img width="511" alt="ui" src="https://github.com/callstack-workshops/abbott-module-4-homework/assets/13610886/d7e0e79a-bec5-4e0d-99d9-7dee01b36134" />
+  <img width="511" alt="ui" src="./assets/image2.png" />
 
     
   </details>
@@ -155,7 +155,7 @@ Given the UI design implement List lotteries feature.
 <details>
   <summary><b>Fetch and display lottery data</b></summary><br>
 
-<img width="511" alt="Screenshot 2023-07-17 at 14 46 14" src="https://github.com/callstack-workshops/abbott-module-4-homework/assets/13610886/d446bd57-3ed7-4473-98d1-c25302b657ac">
+<img width="511" alt="Screenshot 2023-07-17 at 14 46 14" src="./assets/image3.png">
 
 
 </details>
@@ -163,7 +163,7 @@ Given the UI design implement List lotteries feature.
 <details>
   <summary><b>Add text input to filter fetched lotteries</b></summary><br>
 
-<img width="511" alt="Screenshot 2023-07-17 at 14 47 16" src="https://github.com/callstack-workshops/abbott-module-4-homework/assets/13610886/a225af13-cf79-44ca-8d13-32d8356bbf68">
+<img width="511" alt="Screenshot 2023-07-17 at 14 47 16" src="./assets/image4.png">
 
 
 </details>
@@ -171,7 +171,7 @@ Given the UI design implement List lotteries feature.
 <details>
   <summary><b>Handle no search result case</b></summary><br>
 
-<img width="511" alt="Screenshot 2023-07-17 at 14 48 54" src="https://github.com/callstack-workshops/abbott-module-4-homework/assets/13610886/9b1142b4-ffd1-4aa4-b3b0-2d48c57a2e3a">
+<img width="511" alt="Screenshot 2023-07-17 at 14 48 54" src="./assets/image5.png">
 
 
 </details>
@@ -196,7 +196,7 @@ List lotteries feature:
 <details>
   <summary><b>Make lotteries selectable and add `Register` button</b></summary><br>
   
-<img width="511" alt="Screenshot 2023-07-17 at 14 11 22" src="https://github.com/callstack-workshops/abbott-module-4-homework/assets/13610886/9492f5d3-e48d-478c-886a-70df687d8853">
+<img width="511" alt="Screenshot 2023-07-17 at 14 11 22" src="./assets/image6.png">
 
 </details>
 
@@ -211,7 +211,7 @@ List lotteries feature:
 <details>
   <summary>Registered lotteries:</summary>
 
-<img width="511" alt="Screenshot 2023-07-17 at 14 08 42" src="https://github.com/callstack-workshops/abbott-module-4-homework/assets/13610886/48f6bc6d-c02d-4606-bc42-4b80787b2fc3">
+<img width="511" alt="Screenshot 2023-07-17 at 14 08 42" src="./assets/image7.png">
 
   
 </details>
