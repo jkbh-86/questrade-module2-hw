@@ -130,7 +130,19 @@ You can read more about TS configuration with expo here: https://docs.expo.dev/g
 1. Install react navigation: https://reactnavigation.org/docs/hello-react-navigation
 2. Create native stack navigator: https://reactnavigation.org/docs/hello-react-navigation
 3. Add two screens: `Home` and `AddLottery`
+Progress:<br>
+<img width="511" alt="Base install - running on iOS simulator" src="./assets/progress2.png">
 4. Create `FAB` and `Form` components
+* Progress
+  - Using Callstack material design library for React Native: [React Native Paper](https://reactnativepaper.com/)
+    - Referencing Pictogrammers material design icon library for ["dice-5" icon](https://pictogrammers.com/library/mdi/icon/dice-5/)
+  - Using Formik library for form handling and validation: [Formik](https://formik.org/docs/overview)
+  - Components reference
+    - [Floating Action Button (FAB)](https://oss.callstack.com/react-native-paper/docs/components/FAB/)
+    - [Formik - React Native](https://formik.org/docs/guides/react-native)
+Progress:<br>
+<img width="511" alt="Base install - running on iOS simulator" src="./assets/progress3.png">
+<img width="511" alt="Base install - running on iOS simulator" src="./assets/progress4.png">
 5. You can reuse and copy `useNewLottery` hook from web part
 6. Add form validation:
   <details>
