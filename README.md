@@ -203,7 +203,7 @@ List lotteries feature:
 <details>
   <summary><b>Add register modal with name input and validation:</b></summary><br>
 
-<img width="511" alt="Screenshot 2023-07-17 at 14 10 30" src="https://github.com/callstack-workshops/abbott-module-4-homework/assets/13610886/0b177c3c-14d9-44c6-a493-960fcd8a5404">
+<img width="511" alt="Screenshot 2023-07-17 at 14 10 30" src="./assets/image7.png">
 
 
 </details>
@@ -211,7 +211,7 @@ List lotteries feature:
 <details>
   <summary>Registered lotteries:</summary>
 
-<img width="511" alt="Screenshot 2023-07-17 at 14 08 42" src="./assets/image7.png">
+<img width="511" alt="Screenshot 2023-07-17 at 14 08 42" src="./assets/image8.png">
 
   
 </details>
