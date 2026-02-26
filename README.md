@@ -56,6 +56,10 @@ Since we previously decided that our project will not be monorepo, let's just cr
  npm run android
  npm run ios
 ``` 
+
+Progress:<br>
+<img width="511" alt="Base install - running on iOS simulator" src="./assets/progress1.png">
+
 3. Add the following script to the `package.json`:
 
 ```bash
